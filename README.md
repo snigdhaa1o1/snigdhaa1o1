@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Snigdha 👋</h1>
 
 <h3 align="center">
-Full Stack Developer • BTech CSE Student • SaaS Builder • GATE 2026 Aspirant
+Full Stack Developer • BTech CSE Student • SaaS Builder • GATE 2027 Aspirant
 </h3>
 
 <p align="center">
