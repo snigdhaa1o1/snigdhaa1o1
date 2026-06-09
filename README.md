@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Snigdha 👋</h1>
 
 <h3 align="center">
-Full Stack Developer • BTech CSE Student • SaaS Builder • GATE 2027 Aspirant
+Full Stack Developer • BTech CSE Student • SaaS Builder
 </h3>
 
 <p align="center">
@@ -22,7 +22,6 @@ I'm a Computer Science student passionate about building products that solve rea
 
 Currently, I'm focused on:
 
-* 🎯 Preparing for **GATE 2027**
 * 💻 Building full-stack web applications
 * 🚀 Developing SaaS products and startup ideas
 * 📊 Learning Data Analytics & AI
