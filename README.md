@@ -5,10 +5,10 @@ Full Stack Developer • BTech CSE Student • SaaS Builder • GATE 2026 Aspira
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/snigdhaa1o1">
+  <a href="https://www.linkedin.com/in/snigdha-srivastava-a198aa276/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:snigdhaa.workk@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Building%20in%20Public-2da44e?style=for-the-badge"/>
@@ -88,7 +88,7 @@ Upload Excel files and generate interactive dashboards, visualizations, and repo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snigdhaa1o1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=snigdhaa1o1&theme=github-dark&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdhaa1o1&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
@@ -114,16 +114,6 @@ Upload Excel files and generate interactive dashboards, visualizations, and repo
 * Backend Architecture
 * AI Integration
 * Data Analytics
-
----
-
-## 🎯 2026 Goals
-
-* Crack GATE 2026
-* Launch SwapStack
-* Complete YumCheck
-* Contribute consistently on GitHub
-* Secure high-paying internship opportunities
 
 ---
 
